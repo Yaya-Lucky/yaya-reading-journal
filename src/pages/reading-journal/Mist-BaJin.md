@@ -7,7 +7,7 @@ tags:
   - Love
   - Literature
   - China
-cover:
+Publication time: 1931
 summary: >
   My thoughts after reading Ba Jin's Mist.
 ---
