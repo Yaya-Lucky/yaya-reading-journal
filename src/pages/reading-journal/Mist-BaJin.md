@@ -1,8 +1,8 @@
 ---
 title: "读巴金小说《雾》的思考"
 date: "2026-10-14"
-book: "Mist"
-author: "Ba Jin"
+book: "雾"
+author: "巴金"
 tags:
   - Love
   - Literature
