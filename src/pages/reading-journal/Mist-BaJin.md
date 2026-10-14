@@ -8,8 +8,6 @@ tags:
   - Literature
   - China
 Publication time: 1931
-summary: >
-  My thoughts after reading Ba Jin's Mist.
 ---
 
 # 读巴金小说《雾》的思考
